@@ -5,7 +5,7 @@
 1. 下载代码 
     `https://github.com/HXL1111/kuayu-1`
 2. 进入 qq-com 运行 server.js
-    `cd kuayu-1/qq-com; node-dev server.js 8888`
+    `cd kuayu-1-CORS/qq-com; node-dev server.js 8888`
 3. 进入 HXL-com 运行 server.js
     `cd ../HXL-com; node-dev server.js 9999`
 4. 设置 hosts
