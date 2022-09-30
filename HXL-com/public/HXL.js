@@ -1,5 +1,5 @@
 const request = new XMLHttpRequest()
-request.open("GET","http://localhost:8888/friends.json")
+request.open("GET","http://localhost/friends.json")
 
 request.onreadystatechange=()=>{
     
